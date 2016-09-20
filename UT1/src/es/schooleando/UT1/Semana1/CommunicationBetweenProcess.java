@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class CommunicationBetweenProcess {
 
 	public static void main(String[] args) throws IOException {
-		
+		//esta bien para empezar
 		if (args.length <= 0) {
 			System.err.println("Se necesita un programa a ejecutar");
 			System.exit(-1);
